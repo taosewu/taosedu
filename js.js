@@ -37,7 +37,7 @@ function getRandomString() {
 // ];
 
 var urls=[
-	'320151.xyz',
+	'320152.xyz',
 ];
 
 var newestUrls = [];
@@ -148,3 +148,4 @@ window.onload = function () {
     mainElem.appendChild(noticeFieldElem);
 
 }
+
